@@ -1,0 +1,1 @@
+Version control is important because it helps developers track changes in their code. It also allows team members to work together and return to older versions if something goes wrong.
